@@ -1,6 +1,8 @@
 package pack;
 import java.util.*;
 public class Inheritans {
+	//multilevel yes
+	//multiple no
 // parent == super == base
 	
 static class Person{
